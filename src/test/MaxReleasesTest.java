@@ -8,9 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static org.testng.Assert.assertEquals;
-import static org.testng.Assert.assertThrows;
 
-public class BobTest {
+public class MaxReleasesTest {
 
     @Test
     public void testEmptyInput() {

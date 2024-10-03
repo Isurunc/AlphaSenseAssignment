@@ -31,8 +31,10 @@ hs_err_pid*
 target/
 
 # Ignore IntelliJ IDEA project files
-.idea/
+.idea/**
 *.iml
 # Maven repository for dependencies
 .m2/
+
+out/
 
