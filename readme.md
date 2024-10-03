@@ -14,6 +14,7 @@ AlphaSenseProject/
 └── Solution.txt
 
 
+
  * Run the Project
 Right-click on the Bob.java class file. 
 Select Run As Java Application.
