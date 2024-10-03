@@ -33,7 +33,6 @@ target/
 # Ignore IntelliJ IDEA project files
 .idea/
 *.iml
-
 # Maven repository for dependencies
 .m2/
 
