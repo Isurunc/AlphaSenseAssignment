@@ -1,5 +1,7 @@
 Project structure is like below.
 
+```
+
 AlphaSenseProject/
 ├── Bob.java
 ├── model/
@@ -13,7 +15,7 @@ AlphaSenseProject/
 └── releases.txt
 └── Solution.txt
 
-
+```
 
  * Run the Project
 Right-click on the Bob.java class file. 
