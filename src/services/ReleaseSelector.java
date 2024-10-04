@@ -10,10 +10,11 @@ public class ReleaseSelector {
     public static List<int[]> selectMaxReleases(List<Release> releases) {
         List<int[]> selectedReleases = new ArrayList<>();
         releases.sort(Comparator.comparingInt(r -> r.getDeliveryDay()));
-        int currentDay = 1;
 
-        int startDay = 1;
+        int currentDay = 1;
+        int startDay ;
         int endDay = 0;
+
         for (Release release : releases) {
             startDay = release.getDeliveryDay();
             endDay += release.getDaysRequired();
