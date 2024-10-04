@@ -17,7 +17,7 @@ AlphaSenseProject/
 
 ```
 
- * Run the Project
+ * To run the Project
 Right-click on the Bob.java class file. 
 Select Run As Java Application.
  -- The output will be written to solution.txt in the same directory as releases.txt.
