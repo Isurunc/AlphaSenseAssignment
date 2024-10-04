@@ -3,13 +3,13 @@ Project structure is like below.
 ```
 
 AlphaSenseProject/
-├── Bob.java
+├── MaxReleases.java
 ├── model/
 │       └── Release.java
 ├── services/
 │       └── ReleaseSelector.java
 ├── test/
-│       └── BobTest.java
+│       └── MaxReleasesTest.java
 ├── utils/
 │       └── FileUtils.java
 └── releases.txt
@@ -18,7 +18,7 @@ AlphaSenseProject/
 ```
 
  * To run the Project
-Right-click on the Bob.java class file. 
+Right-click on the MaxReleases.java class file. 
 Select Run As Java Application.
  -- The output will be written to solution.txt in the same directory as releases.txt.
 
